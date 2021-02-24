@@ -1,0 +1,2 @@
+- Testes funcionais são bons para testar a experiência do usuário enquanto testes de unidade são bons para melhorar a qualidade do sistema;
+- Testes de unidade são bons para manter a qualidade do código nas atualizações e refatorações
