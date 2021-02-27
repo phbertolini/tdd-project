@@ -1,0 +1,1 @@
+Começa escrevendo um teste funcional, rodar o teste funcional, escreva um código mínimo, no código minimo do teste funcional faça o fluxo do TDD para teste de unidade, passando o teste de unidade continue o fluxo do teste funcional.
